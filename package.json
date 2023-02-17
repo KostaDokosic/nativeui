@@ -1,0 +1,20 @@
+{
+  "name": "ragemp-nativeui-ts",
+  "version": "1.0.0",
+  "description": "RageMP NativeUI",
+  "main": "dist/nativeui",
+  "license": "Apache-2.0",
+  "private": false,
+  "dependencies": {
+    "ajv": "^6.8.1"
+  },
+  "devDependencies": {
+    "@types/node": "^10.12.12",
+    "@types/ragemp-c": "github:CocaColaBear/types-ragemp-c#master",
+    "ts-loader": "^5.3.1",
+    "typescript": "^3.2.1",
+    "rollup": "^2.53.2",
+    "rollup-plugin-terser": "^6.1.0",
+    "rollup-plugin-typescript2": "^0.27.3"
+  }
+}

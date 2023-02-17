@@ -1,0 +1,2 @@
+RAGEMP-NATIVEUI AS NPM PACKAGE.
+Typescript support
